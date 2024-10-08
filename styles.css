@@ -1,10 +1,15 @@
 /*  your css code here. If applicable */
 img{
 	position: relative;
+	color: rgba(0,0,0,0);
+	scroll-margin: 0%;
+	box-sizing: border-box;
 }
 
 h1{
 	position: absolute;
 	top: 0;
-	color: #fff
+	color: #fff;
+	text-align: center;
+	align-items: center;
 }
