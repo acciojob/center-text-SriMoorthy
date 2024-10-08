@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+img{
+	position: relative;
+}
+
+h1{
+	position: absolute;
+	top: 0;
+	color: #fff
+}
