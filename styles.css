@@ -1,15 +1,8 @@
-/*  your css code here. If applicable */
-img{
-	position: relative;
-	color: rgba(0,0,0,0);
-	scroll-margin: 0%;
-	box-sizing: border-box;
-}
-
-h1{
-	position: absolute;
-	top: 0;
-	color: #fff;
-	text-align: center;
-	align-items: center;
+body{
+	background-image: url('https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	margin: 0;
+	color: white;
 }
